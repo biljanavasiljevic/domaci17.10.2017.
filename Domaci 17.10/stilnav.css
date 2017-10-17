@@ -1,0 +1,87 @@
+
+body {
+	background-color: #ADD8E6;
+}
+
+ul {list-style-type: none;
+ 	float: right;
+ 	margin-top: -50px;
+ }
+
+li{display: inline-block;
+}
+
+li a {
+   
+    background-color: #00BFFF;
+    border: 1px black solid;
+    border-radius: 25px 10px;
+    box-shadow: 10px 10px 5px #888888;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+    color: green;
+    font-family: Arial black;
+}
+
+img{max-width: 100px;
+
+	
+}
+
+.x {
+	margin-top: 200px;
+	border: none;
+	width: 100%;
+}
+
+section{margin: 5px;
+		padding:50px 10px 10px 10px;
+		width: 20%;
+		height: 300px;
+		display: inline-block;
+		border: 3px black solid;
+		border-radius: 10px;
+		position: relative;
+}
+
+div{
+    position: relative;
+    top: -75px;
+    left: 35%;
+    width: 80px;
+    height: 80px;
+    border: 1px black solid;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    
+}
+
+
+
+.prvi{
+	background-image: url(https://www.oralanswers.com/wp-content/uploads/2013/11/keep_extracted_tooth_from_dentist.jpg);
+	background-size: cover;
+}
+
+.drugi{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOhFsoQzyaw1dHqVg4h7DDUk4qVymhPO-0B5pDY5bdEiez18V0);	
+	background-size: cover;	
+
+}
+
+.treci{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIz7A2glclR0wlMqbyuExQfC8zj5GJ_9MyqftACps0TH995rEv);
+	background-size: cover;
+	
+}
+
+.cetvrti{
+	background-image: url(http://static1.squarespace.com/static/562cf9c7e4b0908330fb66c6/57606500859fd06ef159f139/5769484903596ea068cc837e/1469638688028/toothbrush-and-toothpaste-300x199.jpg?format=1000w);
+	background-size: cover;
+}
+
+p{
+	margin-top: 50px;
+}
